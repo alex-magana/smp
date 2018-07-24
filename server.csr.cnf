@@ -10,5 +10,5 @@ ST=RandomState
 L=RandomCity
 O=RandomOrganization
 OU=RandomOrganizationUnit
-emailAddress=localhost@alexmagana.com
+emailAddress=localhost@example.com
 CN=localhost.bbc.co.uk
